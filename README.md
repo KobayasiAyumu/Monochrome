@@ -31,7 +31,7 @@
 
 ## 👨‍💻 Author
 
-* GitHub: [@あなたのユーザー名](https://github.com/KobayasiAyumu)
+* GitHub: [@AYUMU](https://github.com/KobayasiAyumu)
 * Student at Human Academy IT College
 
 ---
